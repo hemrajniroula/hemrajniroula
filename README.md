@@ -3,7 +3,7 @@
     
  
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/hemrajniroula) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemrajniroula9@gmail.com) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)]([https://linkedin.com/in/hemrajniroula](https://www.linkedin.com/in/hemraj-niroula-285137372/)) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:hemrajniroula9@gmail.com) 
 
 <p align="center">
   <img src="https://media.giphy.com/media/13CoXDiaCcCoyk/giphy.gif" width="300">
